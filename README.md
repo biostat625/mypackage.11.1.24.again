@@ -10,7 +10,6 @@
 coverage](https://codecov.io/gh/biostat625/mypackage.11.1.24.again/graph/badge.svg)](https://app.codecov.io/gh/biostat625/mypackage.11.1.24.again)
 <!-- badges: end -->
 
-
 ## Installation
 
 You can install the development version of mypackage.11.1.24.again from
